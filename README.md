@@ -1,14 +1,18 @@
 # Howdy! My name is Mitchell Kaskie
 
-I am a digital marketer, UX/UI designer and developer. I currently work as a Web Content Specialist for Genpact.
+I am a digital marketer, UX/UI designer and developer. I currently work as a Web Content Specialist for [Genpact](https://www.genpact.com).
+
+## Portfolio
+
+[Mitchell Kaskie's Portfolio Website](mkaskie.github.io)
 
 ## About
 
-+ Dallas, TX
-+ Genpact
-+ University of Arkansas
-+ Marketing
-+ Pairie Village, KS
++ 📍 Dallas, TX
++ 👔 Genpact
++ 🏫 University of Arkansas
++ 📜 Marketing
++ 🏠 Pairie Village, KS
 
 ## Interests
 
@@ -16,10 +20,6 @@ I am a digital marketer, UX/UI designer and developer. I currently work as a Web
 + 🏃🏼 Fitness
 + 🏈 Sports
 + 🧑🏼‍💻 Coding
-
-## Portfolio
-
-mkaskie.github.io
 
 <!--
 - 👋 Hi, I’m @mkaskie
