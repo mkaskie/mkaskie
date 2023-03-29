@@ -4,7 +4,7 @@ I am a digital marketer, UX/UI designer and developer. I currently work as a Web
 
 ## Portfolio
 
-[Mitchell Kaskie's Portfolio Website](mkaskie.github.io)
+[Mitchell Kaskie's Portfolio Website](https://mkaskie.github.io/)
 
 ## About
 
